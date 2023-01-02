@@ -9,7 +9,7 @@ export default function toptext() {
       being cut in the second. I kid. Obviously. Every day with you has been even better than the last and reenforces how lucky I am to have you. I hope the metaphor you see here is in 
       the raw, HTML unabated by fancy CSS, and is true to its form is just like me. I am running out of room and because I have forgotten how to resize text I must make these final words count. 
       My heart skips a beat everytime I see you. You are undoubtedly the most kind, insightful and beautiful person I have ever had the great pleasre of meeting. Please know that I 
-      am thinking of your warmly from my side of the planet and that I look forward to seeing you again. 
+      am thinking of your warmly from my side of the planet and that I look forward to seeing you again. git 
       :) 
     </p>
     
